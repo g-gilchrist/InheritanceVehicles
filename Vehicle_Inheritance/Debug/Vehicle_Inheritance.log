@@ -1,0 +1,3 @@
+﻿  Vehicle_Inheritance.cpp
+D:\Class\C++\Vehicle_Inheritance\Vehicle_Inheritance\Vehicle_Inheritance.cpp(296,22): warning C4101: 'e': unreferenced local variable
+  Vehicle_Inheritance.vcxproj -> D:\Class\C++\Vehicle_Inheritance\Debug\Vehicle_Inheritance.exe
